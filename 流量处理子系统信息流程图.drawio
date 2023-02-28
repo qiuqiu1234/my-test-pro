@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T09:03:26.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="oJQYJE8S7wX0U-fLAL6B" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T09:05:56.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MuT-cb_2Pv3-G41Dq5rr" version="20.8.23" type="github">
   <diagram name="第 1 页" id="i242wir0LVvrTrvufnnq">
     <mxGraphModel dx="1728" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,8 +48,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SfL-1dqMt8eLdVgTVKJM-10" value="网络数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="620" y="417.5" width="60" height="30" as="geometry" />
+        <mxCell id="SfL-1dqMt8eLdVgTVKJM-10" value="网络数据信息流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="417.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SfL-1dqMt8eLdVgTVKJM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -101,17 +101,17 @@
         <mxCell id="SfL-1dqMt8eLdVgTVKJM-21" value="调度算&lt;br&gt;法选择" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="300" y="495" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SfL-1dqMt8eLdVgTVKJM-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1">
+        <mxCell id="SfL-1dqMt8eLdVgTVKJM-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeColor=#85b6f5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="465.08000000000004" as="sourcePoint" />
-            <mxPoint x="610" y="465.39000000000004" as="targetPoint" />
+            <mxPoint x="560" y="463.08000000000004" as="sourcePoint" />
+            <mxPoint x="610" y="463.39000000000004" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="465.08000000000004" />
+              <mxPoint x="540" y="463.08000000000004" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SfL-1dqMt8eLdVgTVKJM-29" value="guan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="620" y="447.5" width="60" height="30" as="geometry" />
+        <mxCell id="SfL-1dqMt8eLdVgTVKJM-29" value="管理控制信息流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="447.5" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
