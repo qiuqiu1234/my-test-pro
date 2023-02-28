@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T10:36:57.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.23" etag="n__I58gDcquyqevFMEiA" type="github"><diagram name="第 1 页" id="KStQGtEi9p2DytLh7vw1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-28T10:38:26.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="5Hx5m17vYfDPzqmMVy0d" version="20.8.23" type="github">
+  <diagram name="第 1 页" id="KStQGtEi9p2DytLh7vw1">
+    <mxGraphModel dx="1430" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NKxcG8WvLp7JqvVt8epf-1" value="动态节点虚拟&lt;br&gt;子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKxcG8WvLp7JqvVt8epf-2" value="动态节点&lt;br&gt;虚拟配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKxcG8WvLp7JqvVt8epf-3" value="动态变形配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKxcG8WvLp7JqvVt8epf-4" value="网络服务&lt;br&gt;子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKxcG8WvLp7JqvVt8epf-5" value="流量处理&lt;br&gt;子系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="530" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
