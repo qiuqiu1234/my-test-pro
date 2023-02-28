@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T07:50:21.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.23" etag="X42--JFEjhlDd8B_7nq_" type="github"><diagram name="第 1 页" id="d8KrIHGw9mfeEf5koZi7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-28T07:54:29.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="m7tqCWSsoi6kbCMJXcs2" version="20.8.23" type="github">
+  <diagram name="第 1 页" id="d8KrIHGw9mfeEf5koZi7">
+    <mxGraphModel dx="1430" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2jsZ0uLVg3BkoNoTCIlo-3" value="流量处理&lt;br&gt;子系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2jsZ0uLVg3BkoNoTCIlo-4" value="网络服务&lt;br&gt;子系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2jsZ0uLVg3BkoNoTCIlo-5" value="动态节点虚拟子系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="290" y="100" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2jsZ0uLVg3BkoNoTCIlo-6" value="动态变换&lt;br&gt;子系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2jsZ0uLVg3BkoNoTCIlo-7" value="动态节点虚拟配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;gradientDirection=radial;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="470" y="100" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2jsZ0uLVg3BkoNoTCIlo-8" value="动态变换配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;gradientDirection=radial;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2jsZ0uLVg3BkoNoTCIlo-9" value="系统管理&lt;br&gt;子系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
