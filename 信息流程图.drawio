@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T08:13:38.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2w6k9iC58afhAQPdur3c" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T08:14:15.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="mgsWwqCczJIgxV1xuHK6" version="20.8.23" type="github">
   <diagram name="第 1 页" id="d8KrIHGw9mfeEf5koZi7">
     <mxGraphModel dx="1430" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,6 +118,9 @@
               <mxPoint x="580" y="260" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2jsZ0uLVg3BkoNoTCIlo-38" value="管理控制&lt;br&gt;信息流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="574" y="266" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
