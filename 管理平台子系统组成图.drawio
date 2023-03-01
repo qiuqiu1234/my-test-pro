@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T03:12:27.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.23" etag="JjdU7lBXF8YU-UhIY6wN" type="github"><diagram name="第 1 页" id="AcYdlMYRaBqmv85kzQkg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-01T03:16:05.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="KRbCNC8XYSJ_5dbRfwLl" version="20.8.23" type="github">
+  <diagram name="第 1 页" id="AcYdlMYRaBqmv85kzQkg">
+    <mxGraphModel dx="1728" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9onQ5a9bX94Wez5FN68Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="9onQ5a9bX94Wez5FN68Y-4" target="9onQ5a9bX94Wez5FN68Y-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9onQ5a9bX94Wez5FN68Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="9onQ5a9bX94Wez5FN68Y-4" target="9onQ5a9bX94Wez5FN68Y-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9onQ5a9bX94Wez5FN68Y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="9onQ5a9bX94Wez5FN68Y-4" target="9onQ5a9bX94Wez5FN68Y-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9onQ5a9bX94Wez5FN68Y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9onQ5a9bX94Wez5FN68Y-4" target="9onQ5a9bX94Wez5FN68Y-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9onQ5a9bX94Wez5FN68Y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9onQ5a9bX94Wez5FN68Y-4" target="9onQ5a9bX94Wez5FN68Y-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9onQ5a9bX94Wez5FN68Y-4" value="管理平台子系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="250" y="140" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9onQ5a9bX94Wez5FN68Y-5" value="网&lt;br&gt;络&lt;br&gt;动&lt;br&gt;态&lt;br&gt;配&lt;br&gt;置&lt;br&gt;模&lt;br&gt;块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="40" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9onQ5a9bX94Wez5FN68Y-6" value="系&lt;br&gt;统&lt;br&gt;状&lt;br&gt;态&lt;br&gt;检&lt;br&gt;测&lt;br&gt;模&lt;br&gt;块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="40" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9onQ5a9bX94Wez5FN68Y-7" value="系&lt;br&gt;统&lt;br&gt;日&lt;br&gt;志&lt;br&gt;记&lt;br&gt;录&lt;br&gt;模&lt;br&gt;块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="40" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9onQ5a9bX94Wez5FN68Y-8" value="系&lt;br&gt;统&lt;br&gt;管&lt;br&gt;理&lt;br&gt;模&lt;br&gt;块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="40" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9onQ5a9bX94Wez5FN68Y-9" value="日&lt;br&gt;志&lt;br&gt;统&lt;br&gt;计&lt;br&gt;分&lt;br&gt;析&lt;br&gt;模&lt;br&gt;块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="40" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
